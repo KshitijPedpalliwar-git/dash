@@ -32,3 +32,9 @@ It highlights trends, patterns, and key performance indicators (KPIs) that suppo
 - 🔄 Data refresh options for up-to-date reporting  
 
 ---
+
+## 📸 Dashboard Preview
+  
+Example:
+<img width="1290" height="728" alt="image" src="https://github.com/user-attachments/assets/167b9b09-6398-43fb-8260-93f6ff74ec1a" />
+
